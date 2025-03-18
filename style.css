@@ -1,0 +1,51 @@
+h1{
+    background:linear-gradient(orange,black);
+    color:white;
+    text-align:center;
+    
+    
+}
+.logo img{
+display: flex;
+border-radius: 5cm;
+width: 50px;
+height: 50px;
+
+}
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.container{
+    display: flex;
+    font-size: 10px;
+    justify-content: center;
+    
+}
+.dress{
+    border: black 3px outset;
+    border-color: bisque;
+    font-style: bold;
+    font-family:  sans-serif;
+    text-decoration: underline;
+}
+.dress img{
+    border-radius: 50px;
+    padding: 20px;
+    margin: 5px;
+}  
+.link{
+    text-align: right;
+}
+.link2{
+    text-align: left;
+}
+
+
+
+
+
+
+
+

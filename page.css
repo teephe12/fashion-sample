@@ -1,0 +1,26 @@
+
+
+.logo img{
+display: inline-block;
+border-radius:50px;
+width: 100px; 
+height: 100px;
+flex-direction: column;
+text-align: center;
+justify-content: center;
+
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+     text-align: center;
+}
+
+.welcome{
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+     background:linear-gradient(orange,black);
+    color:white;
+}
